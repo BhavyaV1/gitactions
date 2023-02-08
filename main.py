@@ -1,1 +1,7 @@
-print("Good Morning Team")
+def hello():
+    print("hi")
+  
+def bye():
+    print("bye")
+    
+print(hello())
